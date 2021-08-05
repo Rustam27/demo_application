@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="main_title">Meduza news</string>
+    <string name="main_loading_news_error">Не удалсоь обновить список новостей</string>
+
+    <string name="repeat">Повторить</string>
+</resources>

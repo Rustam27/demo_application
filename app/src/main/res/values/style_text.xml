@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle" parent="Base.TextAppearance.AppCompat" />
+
+    <!-- Regular style -->
+
+    <style name="TextStyle.Regular">
+        <item name="android:fontFamily">@font/futura_pt_book</item>
+    </style>
+
+    <style name="TextStyle.Regular.Black">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <style name="TextStyle.Regular.Black.14">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Medium style -->
+
+    <style name="TextStyle.Medium">
+        <item name="android:fontFamily">@font/futura_pt_medium</item>
+    </style>
+
+    <style name="TextStyle.Medium.Black">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <style name="TextStyle.Medium.Black.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Bold style -->
+
+    <style name="TextStyle.Bold">
+        <item name="android:fontFamily">@font/futura_pt_demi</item>
+    </style>
+
+    <style name="TextStyle.Bold.Black">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <style name="TextStyle.Bold.Black.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
